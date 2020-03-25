@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-plugin-root-component",
+  "name": "gatsby-root-component",
   "version": "1.0.1",
   "description": "Create a root component",
   "main": "index.js",
