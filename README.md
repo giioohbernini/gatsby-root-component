@@ -1,0 +1,1 @@
+# gatsbt-root-component

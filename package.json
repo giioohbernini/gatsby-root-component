@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-root-component",
+  "version": "1.0.0",
+  "description": "Create a root component",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbernini/gatsby-root-component.git"
+  },
+  "keywords": [
+    "plugin",
+    "gatsby",
+    "gatsby-plugin",
+		"root-component"
+  ],
+  "author": "Giovanni Bernini <giovannibernini.ti@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gbernini/gatsby-root-component/issues"
+  },
+  "homepage": "https://github.com/gbernini/gatsby-root-component#readme"
+}
